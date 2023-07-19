@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoSonepar
+- 👋 Hi, I'm Jo
 - 👀 I’m interested in Python( data API management), SQL but also FE code (HTML, JS)
 - 🌱 I’m currently learning python stuff 
 - 💞️ I’m looking to collaborate on what could be usefull 
